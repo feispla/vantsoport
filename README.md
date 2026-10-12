@@ -24,5 +24,5 @@ Vants se conecta a un servidor MCP alojado en n8n. Cada petición se autentica c
 
 ## Contacto
 
-- Web: https://feispla.github.io/Vantcall/
+- Web: https://feispla.github.io/Vants/
 - Autor: [@feispla](https://github.com/feispla)
